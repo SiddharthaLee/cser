@@ -1,12 +1,12 @@
 {
-    "title": "猪了个猪",
-    "desc": "啥都不是",
+    "title": "地了个大",
+    "desc": "喜迎二十大",
     "bgm": "/sound-disco.mp3",
     "dark": true,
     "background": "",
     "backgroundBlur": false,
-    "backgroundColor": "#8dac85",
-    "pure": true,
+    "backgroundColor": "#A3BBDB",
+    "pure": false,
     "maxLevel": 50,
     "icons": [
         {
